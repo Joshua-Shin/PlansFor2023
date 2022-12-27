@@ -20,9 +20,9 @@ Main
     - [깃헙](https://github.com/jojoldu/junior-recruit-scheduler)
     - [korecruIT](https://korecruit.kr/)
     - [백준](https://www.acmicpc.net/) 
-    - [프로그래머스](https://career.programmers.co.kr/job)
-    - [
-    - 수시 채용도 지원
+    - [프로그래머스 채용공고](https://career.programmers.co.kr/job)
+    - [프로그래머스 채용프로그램](https://career.programmers.co.kr/competitions)
+    - 포폴이랑 이력
  
 5. 면접 준비
 - 추천 도서 : 프로그래밍 면접, 이렇게 준비한다

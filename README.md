@@ -1,32 +1,36 @@
 Main
 --------
-### 인프런
-  - [ ] 스프링 핵심 원리 : 기본편
-  - [ ] 스프링 웹 MVC 1편
-  - [ ] 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발
-  - [ ] 자바 ORM 표준 JPA 프로그래밍 : 기본편
+### 인프런 강의 듣기
+- [ ] 스프링 핵심 원리 : 기본편
+- [ ] 스프링 웹 MVC 1편
+- [ ] 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발
+- [ ] 자바 ORM 표준 JPA 프로그래밍 : 기본편
 
 ### 포폴 만들기
-  - [ ] 스프링부트와 aws로 혼자 구현하는 웹서비스
+- [ ] 스프링부트와 aws로 혼자 구현하는 웹서비스
 
 ### 이력서 만들기
-  - 참고 자료
-    - [이력서 작성법](https://wonny.space/writing/work/engineer-resume)
-    - [이력서 레퍼런스](https://www.notion.so/wbluke/c47951185f404835a982ef97041e59fd)
-    - [이력서 레퍼런스](https://jyami.tistory.com/8)
+- 참고 자료
+	- [이력서 작성법](https://wonny.space/writing/work/engineer-resume)
+	- [이력서 레퍼런스](https://www.notion.so/wbluke/c47951185f404835a982ef97041e59fd)
+	- [이력서 레퍼런스](https://jyami.tistory.com/8)
 
-### 지원
-  - 채용 정보 (매주 월요일 마다 확인) 
-    - [깃헙](https://github.com/jojoldu/junior-recruit-scheduler)
-    - [korecruIT](https://korecruit.kr/)
-    - [백준](https://www.acmicpc.net/) 
-    - [프로그래머스 채용공고](https://career.programmers.co.kr/job)
-    - [프로그래머스 채용프로그램](https://career.programmers.co.kr/competitions)
-    - 포폴이랑 이력
+### 지원 하기
+- 채용 정보 (매주 월요일 마다 확인) 
+	- [깃헙](https://github.com/jojoldu/junior-recruit-scheduler)
+	- [korecruIT](https://korecruit.kr/)
+	- [백준](https://www.acmicpc.net/) 
+	- [프로그래머스 채용공고](https://career.programmers.co.kr/job)
+	- [프로그래머스 채용프로그램](https://career.programmers.co.kr/competitions)
+	- 이력서까지 완성된 상태라면, 공채만 기다리지말고 수시 채용도 적극 지원
  
-5. 면접 준비
-- 추천 도서 : 프로그래밍 면접, 이렇게 준비한다
-- CS 질문 준비 : 면접 예상 질문 깃허브
+### 면접 준비
+- [ ] 프로그래밍 면접, 이렇게 준비한다(책)
+- 추천 도서 : 
+- CS 예상 질문  : 면접 예상 질문 깃허브
+- 추천 도서 : 답변 
+- 추천 도서 : ㅈㅜㄴ
+- 추천 도서 : 
 - 포폴에 사용한 기술 사용 이유 작동 원리 구조 확실히 알아두기
 - ‘기억상자’(정처기용), ‘quizlet’, ‘암기짱’ 뭐 이런거 이용해서 암기카드 만들어서 달달 외우기
 

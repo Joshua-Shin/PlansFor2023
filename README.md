@@ -37,7 +37,7 @@
 	- https://jyami.tistory.com/m/126
 
 ------
-### 알고리즘
+### [알고리즘](https://github.com/Joshua-Shin/Algorithm-BaekJoon)
 - 랜덤 디펜스 후 취약 알고리즘 공략
 	- [x] 트리 : 4803, 15681, 1240, 20955, 14267, 2250
 	- [ ] 유니온 파인드 : 1717, 1976, 4195, 20040

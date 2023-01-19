@@ -70,6 +70,7 @@
 	- [ ] 프로그래머스 lv5 테스트
 	- [ ] 백준 class6
 	- [ ] 백준 class7
+- [바킹독 문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
 
 
 ------

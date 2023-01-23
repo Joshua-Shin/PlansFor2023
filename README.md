@@ -38,7 +38,8 @@
 	- ‘기억상자’(정처기용), ‘quizlet’, ‘암기짱’ 등 어플과 웹사이트 활용도 고려
 
 6. 이력서 및 면접 준비 참고 자료
-	- https://jyami.tistory.com/m/126
+	- [공채없이 카카오 개발자 취준기](https://jyami.tistory.com/m/126)
+	- [이력서 및 면접 피드백 사이트](https://intellipick.spartacodingclub.kr/applicant?utm_source=bjoon&utm_medium=display&utm_campaign=%EC%9D%B8%ED%85%94%EB%A6%AC%ED%94%BD&utm_content=b2c&utm_term=230118)
 
 ------
 ### [알고리즘](https://github.com/Joshua-Shin/Algorithm-BaekJoon)

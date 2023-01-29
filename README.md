@@ -18,6 +18,8 @@
 			- [ ] #2. thymeleaf를 이용한 화면 작성, 
 			- [ ] #3. thymeleaf 기본 익히기 
 			- [ ] #4. thymeleaf를 이용해 레이아웃 만들기
+	- 학습 순서
+		- JPA활용1 -> HTML/CSS -> thymeleaf -> 웹MVC -> JPA활용2 -> 스프링데이터JPA -> Querydsl..
 	
 2. 웹 서비스 프로젝트 만들기
 	- [TenHoursStudy Project](https://github.com/Joshua-Shin/TenHoursStudy)

@@ -12,7 +12,6 @@
 		- [ ] 실전! Querydsl
 		- [ ] 토비의 스프링 부트 - 이해와 원리
 	- 유튜브
-		- [ ] 한시간만에 끝내는 HTML+CSS 입문 - 개발자의품격
 		- [ ] HTML/CSS 강의 - 짐코딩의 CODING GYM
 		- Spring Boot으로 웹 출시까지 - 코딩의신
 			- [ ] #2. thymeleaf를 이용한 화면 작성, 

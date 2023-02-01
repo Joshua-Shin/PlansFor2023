@@ -37,11 +37,8 @@
 
 4. 지원 하기
 	- 채용 정보 (매주 월요일 마다 확인) 
-		- [깃헙](https://github.com/jojoldu/junior-recruit-scheduler)
-		- [korecruIT](https://korecruit.kr/)
-		- [백준](https://www.acmicpc.net/) 
-		- [프로그래머스 채용공고](https://career.programmers.co.kr/job)
-		- [프로그래머스 채용프로그램](https://career.programmers.co.kr/competitions)
+		- [깃헙](https://github.com/jojoldu/junior-recruit-scheduler), [korecruIT](https://korecruit.kr/), [백준](https://www.acmicpc.net/) ,[프로그래머스](https://career.programmers.co.kr/job)
+		- [
 		- 프로젝트 및 이력서가 완성된 상태라면, 공채만 기다리지말고 수시 채용도 적극 지원
 		- 프로젝트 및 이력서가 미완성된 상태라면, 수시 채용에는 지원 노노. 규정상 관례상 최초 지원한지 최소 1년이 지나야 재지원에 가능한곳도 많으니.
  

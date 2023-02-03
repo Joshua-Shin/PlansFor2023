@@ -13,10 +13,7 @@
 		- [ ] 토비의 스프링 부트 - 이해와 원리
 	- 유튜브
 		- [x] HTML/CSS 강의 - 짐코딩의 CODING GYM
-		- Spring Boot으로 웹 출시까지 - 코딩의신
-			- [ ] #2. thymeleaf를 이용한 화면 작성, 
-			- [ ] #3. thymeleaf 기본 익히기 
-			- [ ] #4. thymeleaf를 이용해 레이아웃 만들기
+		- [ ] Spring Boot으로 웹 출시까지 - 코딩의신
 	- 학습 순서
 		- ~~JPA활용1 -> HTML/CSS~~ -> thymeleaf -> 웹MVC -> JPA활용2 -> 스프링데이터JPA -> Querydsl..
 	

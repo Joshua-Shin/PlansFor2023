@@ -137,10 +137,11 @@
 		- 정처기, sqld, 포폴 까지 다 됐다면, 토익 900++ 만들고 aws 가자
 
 - 추가로 고려해볼만한 학습
+	- [네트워크 강의](https://youtube.com/playlist?list=PLOml5j0-AMQkHM6SFAP3YIRXHKu2glLVc) : 총 23:34:51
 	- [추천 도서 및 강의 from 백엔드 갤러리](https://gall.dcinside.com/mgallery/board/view/?id=backend&no=113)
-		- 네트워크 : 컴퓨터 네트워킹 하향식 접근, 
+		- 네트워크 : 컴퓨터 네트워킹 하향식 접근 // 위 강의로 대체해도 될듯
 		- 자바 : 모던 자바 인 액션, 이팩티브 자바 
-		- 스프링 : 스프링 시큐리티 인 액션 // 현재까지 스프링 시큐리티 마땅한 강의가 없음
+		- 스프링 : 스프링 시큐리티 인 액션 // 현재까지 스프링 시큐리티 마땅한 강의가 없음. 백기선 강의 리뷰가 안좋네
 		- 방법론 : 클린 코드, 리팩터링 2판
 	- [추천 학습 로드맵 from 우테코](https://docs.google.com/document/d/1yVZ8ru645NxjVWAJOqbEC41_Tb1_clR3GyU0WH7Wh2g/edit)
 		- 좋은코드 나쁜코드, 클린코드, 테스트 주도 개발 시작하기, 테스트 주도 개발, 리팩터링 2판, 객체지향의 사실과 오해, 모던 자바 인 액션, 이펙티브 자바

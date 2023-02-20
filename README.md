@@ -42,7 +42,7 @@
 	- 참고 자료
 		- [이력서 작성법](https://wonny.space/writing/work/engineer-resume)
 		- [이력서 레퍼런스](https://www.notion.so/wbluke/c47951185f404835a982ef97041e59fd)
-		- [이력서 레퍼런스](https://jyami.tistory.com/8)
+		- ~~[이력서 레퍼런스](https://jyami.tistory.com/8)~~
 
 4. 지원 하기
 	- 채용 정보 (매주 월요일 마다 확인) 

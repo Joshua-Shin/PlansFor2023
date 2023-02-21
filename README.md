@@ -53,11 +53,10 @@
 		- 프로젝트 및 이력서가 미완성된 상태라면, 수시 채용에는 지원 노노. 규정상 관례상 최초 지원한지 최소 1년이 지나야 재지원에 가능한곳도 많으니.
  
 5. 면접 준비
-	- [ ] ~~프로그래밍 면접, 이렇게 준비한다(책)~~ // 책 별로인듯
-	- [ ] CS 예상 질문 답변 준비하기
-	- [ ] 포폴 예상 질문 답변 준비하기
-	- ‘기억상자’(정처기용), ‘quizlet’, ‘암기짱’ 등 어플과 웹사이트 활용도 고려
-
+	- https://github.com/gyoogle/tech-interview-for-developer
+	- 자바, 자료구조, 컴퓨터구조, 운영체제, 네트워크, 데이터베이스, 웹, Spring, JPA 까지 다 정리 되어있네.
+	- 컴퓨터구조 빼고 최소 한번 이상은 공부한 분야들이니까 이렇게 정리된 자료로 공부하는게 훨씬 낫겠네.
+	- 내 계획이라든가, 내 생각을 메모하는건 좋은데, 자꾸 내가 요약하고 정리하고 그럴려고 하지마. 그럴시간에 누가 요약해놓은걸로 공부하면 되잖아.
 6. 이력서 및 면접 준비 참고 자료
 	- [공채없이 카카오 개발자 취준기](https://jyami.tistory.com/m/126)
 	- [이력서 및 면접 피드백 사이트](https://intellipick.spartacodingclub.kr/applicant?utm_source=bjoon&utm_medium=display&utm_campaign=%EC%9D%B8%ED%85%94%EB%A6%AC%ED%94%BD&utm_content=b2c&utm_term=230118)

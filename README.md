@@ -2,14 +2,13 @@
 --------
 
 ### 목차
-- 알고리즘
-- 포트폴리오 및 백엔드 실무 기술 학습
-- 구직
+- [알고리즘](https://github.com/Joshua-Shin/Algorithm-BaekJoon/blob/main/README.md)
+- 백엔드 실무 기술 학습 및 프로젝트 개발
 - 면접 준비
+- 구직
 - 기타
 	
-### [알고리즘](https://github.com/Joshua-Shin/Algorithm-BaekJoon/blob/main/README.md)
-
+--------
 ### 백엔드 실무 기술 학습 및 프로젝트 개발
 1. 인터넷 강의 수강 리스트
 	- 인프런 
@@ -28,6 +27,7 @@
 	- [TenHoursStudy Project](https://github.com/Joshua-Shin/TenHoursStudy)
 	- 블로그 개발 진행중
 
+--------
 ### 면접 준비
 1. 면접 준비
 	- https://github.com/gyoogle/tech-interview-for-developer
@@ -36,7 +36,7 @@
 	- 내 계획이라든가, 내 생각을 메모하는건 좋은데, 자꾸 내가 요약하고 정리하고 그럴려고 하지마. 그럴시간에 누가 요약해놓은걸로 공부하면 되잖아.
 	- 근데 이게 좀 소모성 지식이라서, 면접 날이 잡히면 2주전이라든가 그럴때 집중적으로 보는게 나을것 같은데..
 
-
+--------
 ### 구직
 1. 이력서 만들기
 	- 참고 자료
@@ -54,7 +54,7 @@
 		- [공채없이 카카오 개발자 취준기](https://jyami.tistory.com/m/126)
 		- [이력서 및 면접 피드백 사이트](https://intellipick.spartacodingclub.kr/applicant?utm_source=bjoon&utm_medium=display&utm_campaign=%EC%9D%B8%ED%85%94%EB%A6%AC%ED%94%BD&utm_content=b2c&utm_term=230118)
  
-
+--------
 ### 기타
 - 자격증
 	- 정보 처리 기사

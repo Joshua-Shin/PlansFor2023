@@ -1,11 +1,16 @@
 2023년 공부 및 취업 공략 계획
 --------
-### 취업 전략
-0. 매일 학습 계획. 3트랙.
-	- 알고리즘
-	- 포트폴리오 및 백엔드 실무 기술 학습
-	- 면접 준비
+
+### 목차
+- 알고리즘
+- 포트폴리오 및 백엔드 실무 기술 학습
+- 구직
+- 면접 준비
+- 기타
 	
+### 알고리즘
+
+### 백엔드 실무 기술 학습 및 프로젝트 개발
 1. 인터넷 강의 수강 리스트
 	- 인프런 
 		- [x] 스프링 핵심 원리 : 기본편
@@ -22,41 +27,37 @@
 	
 2. 웹 서비스 프로젝트 만들기
 	- [TenHoursStudy Project](https://github.com/Joshua-Shin/TenHoursStudy)
-	- TenHoursStudy 홈페이지에는 솔직히 게시판 페이지를 만들 필요가 없어... 
-	- 그냥 contact 페이지에다가 내 메일이나 깃허브 링크 넣으면 끝인데, 굳이 굳이 crud 구현한거 어필하려고 그럴필요가 없지.
-	- 좀 더 rest api, db 설계, mvc구조들을 어필하고, 프로그램을 바로 실행할 수 있는 프로젝트로 진행하는게 나을듯.
-	- ~~인프런 김영한, 토비 강의는 보통 프레임워크의 구동원리와 이론을 주로 다루고 있어.~~
-	- ~~스프링와 JPA를 이용한 웹 개발은 인프런 강의 따라가면서 진행하고, 실제 배포라든가 이런건 유튜브에 검색 고고~~
-	- ~~유뷰트에 그냥 "스프링 부트 게시판 만들기", "스프링 부트 블로그 만들기" 뭐 대충 이렇게만 검색해도 따라하는 영상들 많아. - 근데 내용이 좀 가벼움~~
-	- ~~스프링부트와 aws로 혼자 구현하는 웹서비스(책) - 처음부터 배포까지 다 다룰 수 있지만, 책이라 버전 안맞는게 너무 많아서 중간중간 너무 빡침.~~
-	- ~~유튜브도 그렇고 바로 위의 책도 그렇고 너무 1장부터 다 따라가면서 하려하지말고 일단 그냥 쭉 가볍게 읽어보고 괜찮으면 고.~~
-	- ~~유데미에도 괜찮은 강의 있으니 참고 - spring boot를 활용해 실무 프로젝트를 만드는 영상은 잘 안보이네.~~
+	- 블로그 개발 진행중
 
-3. 이력서 만들기
+### 면접 준비
+1. 면접 준비
+	- https://github.com/gyoogle/tech-interview-for-developer
+	- 자바, 자료구조, 컴퓨터구조, 운영체제, 네트워크, 데이터베이스, 웹, Spring, JPA 까지 다 정리 되어있네.
+	- 컴퓨터구조 빼고 최소 한번 이상은 공부한 분야들이니까 이렇게 정리된 자료로 공부하는게 훨씬 낫겠네.
+	- 내 계획이라든가, 내 생각을 메모하는건 좋은데, 자꾸 내가 요약하고 정리하고 그럴려고 하지마. 그럴시간에 누가 요약해놓은걸로 공부하면 되잖아.
+	- 근데 이게 좀 소모성 지식이라서, 면접 날이 잡히면 2주전이라든가 그럴때 집중적으로 보는게 나을것 같은데..
+
+
+### 구직
+1. 이력서 만들기
 	- 참고 자료
 		- [이력서 작성법](https://wonny.space/writing/work/engineer-resume)
 		- [이력서 레퍼런스](https://www.notion.so/wbluke/c47951185f404835a982ef97041e59fd)
 		- ~~[이력서 레퍼런스](https://jyami.tistory.com/8)~~
 
-4. 지원 하기
+2. 지원 하기
 	- 채용 정보 (매주 월요일 마다 확인) 
 		- [깃헙](https://github.com/jojoldu/junior-recruit-scheduler), [korecruIT](https://korecruit.kr/), [백준](https://www.acmicpc.net/) ,[프로그래머스](https://career.programmers.co.kr/job)
 		- [네이버](https://recruit.navercorp.com/rcrt/list.do?srchClassCd=1000000), [카카오](https://careers.kakao.com/jobs), [라인](https://careers.linecorp.com/jobs?ca=Engineering&ci=Seoul,Bundang&co=East%20Asia), [쿠팡](https://www.coupang.jobs/kr/jobs/?department=Ecommerce+Engineering&department=Play+Engineering&department=Product+UX&department=Search+and+Discovery&department=Search+and+Discovery+Core+Infrastructure&department=Cloud+Platform&department=Corporate+IT&department=eCommerce+Product&department=FTS+(Fulfillment+and+Transportation+System)&department=Marketplace%2c+Catalog+%26+Pricing+Systems&department=Program+Management+Office&department=Customer+Experience+Product), [배민](https://career.woowahan.com/?jobCodes=&employmentTypeCodes=&serviceSectionCodes=&careerPeriod=&keyword=&category=jobGroupCodes%3ABA005001#recruit-list), [당근](https://team.daangn.com/jobs/engineering-server/#_filter), [토스](https://toss.im/career/jobs), [두나무](https://dunamu.com/careers/jobs?category=engineering), [야놀자](https://careers.yanolja.co/), [몰로코](https://www.moloco.com/open-positions), [센드버드](https://sendbird.com/careers)
 		- [네이버 부스트캠프](https://boostcamp.connect.or.kr/program_wm.html)
 		- 프로젝트 및 이력서가 완성된 상태라면, 공채만 기다리지말고 수시 채용도 적극 지원
 		- 프로젝트 및 이력서가 미완성된 상태라면, 수시 채용에는 지원 노노. 규정상 관례상 최초 지원한지 최소 1년이 지나야 재지원에 가능한곳도 많으니.
+	- 이력서 및 면접 준비 참고 자료
+		- [공채없이 카카오 개발자 취준기](https://jyami.tistory.com/m/126)
+		- [이력서 및 면접 피드백 사이트](https://intellipick.spartacodingclub.kr/applicant?utm_source=bjoon&utm_medium=display&utm_campaign=%EC%9D%B8%ED%85%94%EB%A6%AC%ED%94%BD&utm_content=b2c&utm_term=230118)
  
-5. 면접 준비
-	- https://github.com/gyoogle/tech-interview-for-developer
-	- 자바, 자료구조, 컴퓨터구조, 운영체제, 네트워크, 데이터베이스, 웹, Spring, JPA 까지 다 정리 되어있네.
-	- 컴퓨터구조 빼고 최소 한번 이상은 공부한 분야들이니까 이렇게 정리된 자료로 공부하는게 훨씬 낫겠네.
-	- 내 계획이라든가, 내 생각을 메모하는건 좋은데, 자꾸 내가 요약하고 정리하고 그럴려고 하지마. 그럴시간에 누가 요약해놓은걸로 공부하면 되잖아.
-	- 근데 이게 좀 소모성 지식이라서, 면접 날이 잡히면 2주전이라든가 그럴때 집중적으로 보는게 나을것 같은데..
-6. 이력서 및 면접 준비 참고 자료
-	- [공채없이 카카오 개발자 취준기](https://jyami.tistory.com/m/126)
-	- [이력서 및 면접 피드백 사이트](https://intellipick.spartacodingclub.kr/applicant?utm_source=bjoon&utm_medium=display&utm_campaign=%EC%9D%B8%ED%85%94%EB%A6%AC%ED%94%BD&utm_content=b2c&utm_term=230118)
 
-------
+
 ### [알고리즘](https://github.com/Joshua-Shin/Algorithm-BaekJoon)
 - 양치기로 승부하려 하지마. 양을 줄여야 돼. 어려운 알고리즘 문제 풀다가 간단한 스택 문제도 못푸는 바보짓 하면 안돼.
 - 각 유형별 대표 문제는 언제 튀어나와도 바로 풀 수 있도록 유형별 대표문제들을 섭렵해야돼.
@@ -100,7 +101,6 @@
 	- ~~[ ] 백준 class7~~
 	- [바킹독 문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
 
-------
 ### 기타
 - 자격증
 	- 정보 처리 기사

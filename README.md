@@ -89,6 +89,9 @@
 	- 리눅스 -> 도커 -> 쿠버네티스
 	- sqlp : sql 자격검정 실전문제, SQL 전문가 가이드, 오라클 성능 고도화 원리와 해법1,2 교재로 공부. 실무자들도 빠르면 6개월 길면 1년 걸리는듯. 국가공인 SQLP 자격검정 핵심노트 1,2 이 책에는 sqlp 실전문제들이 수록되어있어서 더 유용할것 같은데 별로 후기가 없네.
 	- flutter로 모바일 앱 개발
+	- 정규표현식
+	- Vim
+	- Gradle
 	- [네트워크 강의](https://youtube.com/playlist?list=PLOml5j0-AMQkHM6SFAP3YIRXHKu2glLVc) : 총 23:34:51
 	- [추천 도서 및 강의 from 백엔드 갤러리](https://gall.dcinside.com/mgallery/board/view/?id=backend&no=113)
 		- 네트워크 : 컴퓨터 네트워킹 하향식 접근 // 위 강의로 대체해도 될듯

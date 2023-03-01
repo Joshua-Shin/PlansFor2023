@@ -44,7 +44,7 @@
 1. 이력서 만들기
 	- 참고 자료
 		- [이력서 작성법](https://wonny.space/writing/work/engineer-resume)
-		- [이력서 레퍼런스](https://www.notion.so/wbluke/c47951185f404835a982ef97041e59fd)
+		- [이력서 레퍼런스](https://wbluke.notion.site/c47951185f404835a982ef97041e59fd)
 	- 적당한 포폴까지 명시된 적절한 이력서를 완성했다면, 전문가들에게 피드백 받기. ex) 호돌맨, 이력서 레퍼런스 작성자..
 2. 지원 하기
 	- 채용 정보 (매주 월요일 마다 확인) 

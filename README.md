@@ -23,6 +23,8 @@
 		- [ ] 호돌맨의 요절복통 개발쇼
 	- 유튜브
 		- [x] HTML/CSS 강의 - 짐코딩의 CODING GYM
+		- [ ] 자바스크립트 기초 강좌 : 100분 완성 - 코딩앙마
+		- [ ] 4시간만에 완벽하게 끝내는 Vue.js 입문 - 개발자의품격
 	
 2. 웹 서비스 프로젝트 만들기
 	- [TenHoursStudy Project](https://github.com/Joshua-Shin/TenHoursStudy)

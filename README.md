@@ -1,10 +1,10 @@
-2023년 공부 및 취업 공략 계획
+2023년 취업 성공 프로젝트
 --------
 
-### 목차
+### 준비 목록
 - [알고리즘](https://github.com/Joshua-Shin/Algorithm-BaekJoon/blob/main/README.md)
 - 백엔드 실무 기술 학습 및 프로젝트 개발
-- 면접 준비
+- 면접
 - 구직
 - 기타
 	

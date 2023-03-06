@@ -20,17 +20,19 @@
 		- [ ] 실전! 스프링 부트와 JPA 활용2 : API 개발과 성능 최적화
 		- [ ] 실전! 스프링 데이터 JPA
 		- [ ] 실전! Querydsl
+		- [ ] 스프링 부트 - 핵심 원리와 활용
 		- [ ] 호돌맨의 요절복통 개발쇼
 	- 유튜브
 		- [x] HTML/CSS 강의 - 짐코딩의 CODING GYM
 		- [x] 자바스크립트 기초 강좌 : 100분 완성 - 코딩앙마
+		- [ ] 한시간만에 끝내는 Vue.js 입문
 		- ~~[ ] 자바스크립트 중급 강좌 : 140분 완성 - 코딩앙마~~
 		- ~~[ ] 자바스크립트 DOM & EVENT - 코딩앙마~~
 		- ~~[ ] 4시간만에 완벽하게 끝내는 Vue.js 입문 - 개발자의품격~~
 	
 2. 웹 서비스 프로젝트 만들기
-	- [TenHoursStudy Project](https://github.com/Joshua-Shin/TenHoursStudy)
-	- 블로그 개발 진행중
+	- ~~[TenHoursStudy Project](https://github.com/Joshua-Shin/TenHoursStudy)~~
+	- [나만의 블로그 개발 진행중](https://github.com/Joshua-Shin/joshualog)
 
 --------
 ### 면접
